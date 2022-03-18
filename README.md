@@ -9,4 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Hi everyone 
+## Hi everyone 👋
+Welcome to my profile. My name is Kássia, i have a degree in Commercial Management from ESUDA and today i am doing administration at UFPE. I'm new to technology and i'm really excited about everything i'm learning. So, I'm going to share a few things with you. Come with me! :)
+
+
